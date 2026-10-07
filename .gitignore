@@ -1,0 +1,28 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Logs
+logs/
+*.log
+
+# NuGet
+*.nupkg
+
+# Publicação
+publish/
+
+# Configurações locais
+appsettings.Development.json
+
+# Cobertura de testes
+TestResults/
+coverage/
